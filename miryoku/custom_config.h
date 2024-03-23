@@ -7,8 +7,6 @@
 // mouse support caksoylar/zmk/feat/mouse-keys-3.2
 #define MIRYOKU_KLUDGE_MOUSEKEYSPR
 
-#if defined (MIRYOKU_KEYBOARD_CORNE)
-
 #define XXX &none
 #define MK1 &KC_SYSTEM_SLEEP
 
@@ -35,6 +33,4 @@ XXX  K20  K21  K22  K23  K24       K25  K26  K27  K28  K29  XXX \
 
 #define MIRYOKU_KLUDGE_THUMBCOMBOS_LEFT 37 38
 #define MIRYOKU_KLUDGE_THUMBCOMBOS_RIGHT 39 40
-
-#endif
 
