@@ -6,4 +6,6 @@
 
 // mouse support caksoylar/zmk/feat/mouse-keys-3.2
 #define MIRYOKU_KLUDGE_MOUSEKEYSPR
-#define MIRYOKU_KLUDGE_SOFT_OFF
+
+// can be used for double click boot to soft off, but i will use automatic
+// sleep, so no need #define MIRYOKU_KLUDGE_SOFT_OFF
