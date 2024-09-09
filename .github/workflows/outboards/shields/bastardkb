@@ -1,4 +1,4 @@
 outboard_repository=gogamid/zmk-config-bastardkb
-outboard_ref=Miryoku
+outboard_ref=bastardkb
 outboard_from=config/boards/shields/bastardkb
 outboard_to=boards/shields/bastardkb
