@@ -1,4 +1,4 @@
-name: "My Build"
+name: "My bastard"
 on: workflow_dispatch
 jobs:
   build:
